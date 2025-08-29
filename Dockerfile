@@ -1,1 +1,1 @@
-FROM redis:8.2.1-alpine3.22
+FROM bitnami/redis:8.2-debian-12
